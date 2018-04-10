@@ -1,0 +1,39 @@
+*{
+    color: #444;
+}
+.wrap {
+    margin: 0 auto;
+    max-width: 1080px;
+}
+.wrap-sm{
+    max-width:450px;
+}
+h1{
+    margin-top:0;
+}
+.input-warp{
+    margin-bottom: 10px;
+}
+.input-control {
+    padding: 5px 10px;
+    border: 1px solid #999;
+    border-radius: 3px;
+    color: #444;
+    width:100%;
+}
+.input-error{
+    display: none;
+}
+.form {
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 3px;
+    -webkit-box-shadow: 0 1px 4px rgba(0,0,0,.2) ;
+    -moz-box-shadow: 0 1px 4px rgba(0,0,0,.2)   ;
+    box-shadow: 0 1px 4px rgba(0,0,0,.2)   ;
+}
+.input-warp label {
+    display: block;
+    padding: 5px 0px;
+
+}
